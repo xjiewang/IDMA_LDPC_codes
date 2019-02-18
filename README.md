@@ -2,7 +2,7 @@
 
 This repository contains the parity check matrix (PCM) of LDPC codes, designed for IDMA systems.
 
-Matlab simulation codes may be provided in the future. 
+Matlab simulation scripts may be provided in the future. 
 
 Questions to  xiaojie.wang@outlook.de
 
